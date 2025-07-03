@@ -31,6 +31,5 @@ This write-up documents my learning from the [https://tryhackme.com/room/careeri
 
 ## 📸 Proof of Completion
 
-[[../images/career-in-cybersecurity-proof.png](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/career-in-cybersecurity.png?raw=true)](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/career-in-cybersecurity.png)
-
-
+'''markdown
+https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/career-in-cybersecurity.png
