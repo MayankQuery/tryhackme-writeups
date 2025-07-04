@@ -5,9 +5,9 @@ This repository contains a summary and personal write-up of my learning from the
 ## Room Overview
 **Security Principles** introduces foundational concepts of cybersecurity, focusing on security models, principles, and the CIA triad. 
 
-🔒 Difficulty: Easy  
-⏳ Estimated Time: 90 minutes  
-📆 Completed on: 4th July, 2025
+Difficulty: Easy  
+Estimated Time: 90 minutes  
+Completed on: 4th July, 2025
 
 ---
 
