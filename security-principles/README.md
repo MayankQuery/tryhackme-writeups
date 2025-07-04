@@ -38,13 +38,14 @@ Completed on: 4th July, 2025
 ### 7. Threat vs Risk
 - Clear distinction and examples of how each affects an organization.
 
-## 8. Threat vs Risk
+### 8. Threat vs Risk
 - **Threat**: A potential cause of an unwanted incident (e.g., malware, hacker).
 - **Risk**: The potential for loss/damage when a threat exploits a vulnerability.
 - Risk = Threat × Vulnerability × Impact
 
-## 9. Conclusion
+### 9. Conclusion
 This room was an excellent introduction to foundational security principles. It reinforced how layered security, trust models, and a strong understanding of threats and risks are crucial in today’s digital landscape.
+
 ---
 
 ## Proof of Completion
