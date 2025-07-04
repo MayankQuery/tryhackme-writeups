@@ -45,7 +45,6 @@ Completed on: 4th July, 2025
 
 ## 9. Conclusion
 This room was an excellent introduction to foundational security principles. It reinforced how layered security, trust models, and a strong understanding of threats and risks are crucial in today’s digital landscape.
-
 ---
 
 ## Proof of Completion
