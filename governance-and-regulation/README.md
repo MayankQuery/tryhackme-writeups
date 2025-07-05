@@ -1,6 +1,7 @@
-**Room Link:** [Governance & Regulation](https://tryhackme.com/room/governanceregulation)
+### Room Link:
+[Governance & Regulation](https://tryhackme.com/room/governanceregulation)
 
-## Room Overview
+### Room Overview
 This room explores the essential cybersecurity governance frameworks and regulatory practices that help organizations stay secure and compliant.
 
 ### Topics Covered
@@ -11,10 +12,10 @@ This room explores the essential cybersecurity governance frameworks and regulat
 - NIST Special Publications (800-53, 800-171)
 - Information Security Management Systems (ISMS)
 
-## Date Completed
+### Date Completed
 **5th July 2025**
 
-**Learning Outcome:**  
+### Learning Outcome:  
 This room helped me understand the **policies, frameworks, and governance models** crucial for an organization’s cybersecurity posture and how they support **compliance, privacy, and regulatory readiness**.
 
 ### Tasks Completed
@@ -29,8 +30,7 @@ This room helped me understand the **policies, frameworks, and governance models
 | 7        | Information Security Management and Compliance | Completed |
 | 8        | Conclusion                                | Completed |
 
-## Screenshots
-
+### Screenshots
 
 
 ---
