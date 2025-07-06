@@ -23,8 +23,8 @@ The **Cyber Kill Chain** is a framework developed to understand and prevent cybe
 8. **Analysis Practice** – Real-world attack breakdown
 
 ## Proof of Completion
-![Room Completed Screenshot]([link-to-your-screenshot](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/cyber-kill-chain-completion.png))
-![Room Screenshot]()
+![Room Completed Screenshot](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/cyber-kill-chain-completion.png)
+![Room Screenshot](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/cyber-kill-chain-room.png)
 
 ---
 
