@@ -31,7 +31,7 @@ This room helped me understand the **policies, frameworks, and governance models
 | 8        | Conclusion                                | Completed |
 
 ### Screenshots
-![Governance & Regulation Room](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/governance-and-regulation-room.png)
+![Governance & Regulation Room](https://github.com/MayankQuery/tryhackme-writeups/blob/main/governance-and-regulation/images/governance-and-regulation-room.png)
 ![Governance & Regulation Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/governance-and-regulation/images/governance-and-regulation-completion.png)
 
 ---
