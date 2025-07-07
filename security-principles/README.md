@@ -51,5 +51,5 @@ This room was an excellent introduction to foundational security principles. It 
 ## Proof of Completion
 
 ![Completion Screenshot](https://github.com/MayankQuery/tryhackme-writeups/blob/main/security-principles/images/security-principles-completion.png)  
-![Room Homepage Screenshot](https://github.com/MayankQuery/tryhackme-writeups/blob/main/images/Room%20Homepage.png)
+![Room Homepage Screenshot](https://github.com/MayankQuery/tryhackme-writeups/blob/main/security-principles/images/security-principles-room.png)
 
