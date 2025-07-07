@@ -16,6 +16,7 @@ This repository contains my notes and experience from completing the **"Offensiv
 
 ## Screenshots
 ![./screenshots/first-website-hack.png](https://github.com/MayankQuery/tryhackme-writeups/blob/main/offensive-security/images/Room%20terminal.png)
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/offensive-security/images/room-completion.png)
 
 ## Tools Used
 - TryHackMe Virtual Machine
