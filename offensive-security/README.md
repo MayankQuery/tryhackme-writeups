@@ -15,7 +15,7 @@ This repository contains my notes and experience from completing the **"Offensiv
 - Understood the role of ethical hackers in identifying and fixing vulnerabilities
 
 ## Screenshots
-![First Website Hack](./screenshots/first-website-hack.png)
+![./screenshots/first-website-hack.png](https://github.com/MayankQuery/tryhackme-writeups/blob/main/offensive-security/images/Room%20terminal.png)
 
 ## Tools Used
 - TryHackMe Virtual Machine
