@@ -18,6 +18,7 @@ The room also included a simulation of a SIEM environment, where I played the ro
 
 ## Flag Captured
 
+![Flag](https://github.com/MayankQuery/tryhackme-writeups/blob/main/defensive-security/images/defensive-security-flag.png)
 
 ---
 
