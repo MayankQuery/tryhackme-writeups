@@ -32,7 +32,7 @@ The room also included a simulation of a SIEM environment, where I played the ro
 
 ## Screenshot of Completion
 
-![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/defensive-security/defensive-security-completion.png)
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/defensive-security/images/defensive-security-completion.png)
 
 ---
 
