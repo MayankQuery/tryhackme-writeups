@@ -17,5 +17,9 @@ https://tryhackme.com/room/whatisnetworking
 ## Flag Obtained:
 `THM{I_PINGED_THE_SERVER}`
 
-## Screenshot
+## Screenshots
+
+![Completion badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/what-is-networking/images/what-is-networking-completion.png)
+
+---
 
