@@ -41,7 +41,8 @@ This room provided a comprehensive introduction to how DNS (Domain Name System) 
 ---
 
 ## Proof of Completion
-![Room Completed](../assets/dns-in-detail-proof.png) 
+![Room Completed](https://github.com/MayankQuery/tryhackme-writeups/blob/main/dns-in-detail/images/dns-in-detail-completion.png) 
+![Room Terminal](https://github.com/MayankQuery/tryhackme-writeups/blob/main/dns-in-detail/images/dns-in-detail-completion.png) 
 
 ---
 
