@@ -27,6 +27,7 @@ This room covers how HTTP(S) works, focusing on requests, responses, methods, st
 - POST login simulation
 
 ## Screenshots:
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/http-in-detail/images/http-in-detail-completion.png)
 
 
 ---
