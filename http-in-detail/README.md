@@ -28,7 +28,7 @@ This room covers how HTTP(S) works, focusing on requests, responses, methods, st
 
 ## Screenshots:
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/http-in-detail/images/http-in-detail-completion.png)
-
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/http-in-detail/images/http-in-detail-practice.png)
 
 ---
 
