@@ -28,5 +28,5 @@ This repository can be used as:
 
 ## Screenshots
 ![Room Completed](https://github.com/MayankQuery/tryhackme-writeups/blob/main/how-websites-work/images/how-websites-work-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/how-websites-work/images/how-websites-work-practice.png)
 
