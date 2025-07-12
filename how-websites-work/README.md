@@ -27,5 +27,6 @@ This repository can be used as:
 - Study notes for learners going through TryHackMe’s web security path
 
 ## Screenshots
-
+![Room Completed](https://github.com/MayankQuery/tryhackme-writeups/blob/main/how-websites-work/images/how-websites-work-completion.png)
+![Room Practice]()
 
