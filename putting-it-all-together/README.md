@@ -52,8 +52,7 @@ Understanding how the web works under the hood is essential for aspiring cyberse
 ---
 
 ## Screenshots
-![Room Completion]()
-![Room Practice]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/putting-it-all-together/images/putting-it-all-together.png)
 
 ---
 
