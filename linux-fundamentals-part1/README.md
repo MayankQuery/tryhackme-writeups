@@ -32,7 +32,7 @@ This repository documents my learning journey through the "Linux Fundamentals Pa
 ## Screenshots
 
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-fundamentals-part1/images/linux-fundamentals-part1-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-fundamentals-part1/images/linux-fundamentals-part1--practice.png)
 
 ## Tools Used
 
