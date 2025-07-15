@@ -4,7 +4,7 @@ This repository contains my notes, answers, and key takeaways from the **"Window
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Introduction to Windows and its history
 - Windows editions and release timelines
@@ -37,7 +37,7 @@ This repository contains my notes, answers, and key takeaways from the **"Window
 
 ## Screenshot
 
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-fundamentals-1/images/windows-fundamentals-1-completion.png)
 ![Room Practice]()
 
 ---
