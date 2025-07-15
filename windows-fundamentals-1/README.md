@@ -18,7 +18,7 @@ This repository contains my notes, answers, and key takeaways from the **"Window
 
 ---
 
-## 🖥VM Details
+## VM Details
 
 - **Machine Name**: WINFUN1.1
 - **OS**: Windows Server 2019 Standard
