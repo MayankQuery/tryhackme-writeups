@@ -38,7 +38,7 @@ This repository contains my notes, answers, and key takeaways from the **"Window
 ## Screenshot
 
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-fundamentals-1/images/windows-fundamentals-1-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-fundamentals-1/images/windows-fundamentals-1-practice.png)
 
 ---
 
