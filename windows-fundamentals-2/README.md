@@ -44,7 +44,7 @@ This repository contains notes and solutions from the TryHackMe room **Windows F
 ---
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-fundamentals-2/images/windows-fundamentals-2-completion.png)
 ![Room Practice]()
 
 ---
