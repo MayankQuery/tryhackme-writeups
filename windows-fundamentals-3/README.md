@@ -47,7 +47,7 @@ This module is the third part of the Windows Fundamentals series. It covers esse
 ---
 
 ### **Screenshot**
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-fundamentals-3/images/windows-fundamentals-3-completion.png)
 ![Room Practice]()
 
 ---
