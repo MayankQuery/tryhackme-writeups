@@ -54,6 +54,6 @@ This repository contains my notes and resources from the [TryHackMe Search Skill
 
 ### Author
 **Mayank Pathak**  
-[LinkedIn](https://www.linkedin.com/in/mayankquery) | [GitHub](https://github.com/MayankQuery)
+[LinkedIn](https://www.linkedin.com/in/mayank-pathak-/) | [GitHub](https://github.com/MayankQuery)
 
 ---
