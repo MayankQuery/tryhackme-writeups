@@ -48,7 +48,7 @@ This repository contains my notes and resources from the [TryHackMe Search Skill
 ---
 
 ## Completion Badge
-![TryHackMe Badge](https://assets.tryhackme.com/rooms/searchskills.png)
+![TryHackMe Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/search-skills/images/search-skills-completion.png)
 
 ---
 
