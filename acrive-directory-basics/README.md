@@ -40,7 +40,7 @@ The room covers the foundational topics of Active Directory and its role in ente
 ---
 
 ## **Screenshot**
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/acrive-directory-basics/images/active-directory-basics-completion.png)
 
 ---
 
