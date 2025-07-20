@@ -52,7 +52,7 @@ Windows command-line knowledge is essential for:
 
 ## Certificate of Completion
 Completed with **100% progress** on TryHackMe.
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-command-line/images/windows-command-line-completion.png)
 
 ---
 
