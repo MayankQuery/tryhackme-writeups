@@ -1,0 +1,34 @@
+Windows Command Line – Essential Commands
+
+1. hostname
+2. whoami
+3. systeminfo
+4. set
+5. ipconfig /all
+6. ping <host>
+7. tracert <host>
+8. netstat -an
+9. nslookup <domain>
+10. dir
+11. type <file>
+12. copy <source> <destination>
+13. move <source> <destination>
+14. del <file>
+15. rmdir <folder> /S /Q
+16. mkdir <folder>
+17. attrib <file>
+18. fc <file1> <file2>
+19. find "<string>" <file>
+20. shutdown /s /t 0
+21. shutdown /r /t 0
+22. tasklist
+23. taskkill /PID <id>
+24. wmic os get caption
+25. wmic product get name
+26. diskpart
+27. chkdsk
+28. sfc /scannow
+29. driverquery
+30. echo <text>
+31. cls
+32. exit
