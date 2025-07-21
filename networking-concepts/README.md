@@ -40,7 +40,7 @@ This repository contains my notes and key takeaways from the [Networking Concept
 ---
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/networking-concepts/images/networking-concepts-completion.png)
 ![Room Practice]()
 
 ---
