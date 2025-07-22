@@ -50,7 +50,7 @@ The module introduces the foundational concepts of cryptography, symmetric encry
 ---
 
 ## **Certificate/Badge**
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/cryptography-basics/images/cryptography-basics-completion.png)
 
 ---
 
