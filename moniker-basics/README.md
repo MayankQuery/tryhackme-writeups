@@ -43,7 +43,7 @@ This repository documents my hands-on learning from the **TryHackMe room: Monike
 
 ---
 
-## "ScreenShot"
+## **ScreenShot**
 ![Room Completion]()
 
 ---
