@@ -44,6 +44,6 @@ This repository documents my hands-on learning from the **TryHackMe room: Monike
 ---
 
 ## **ScreenShot**
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/moniker-basics/images/moniker-link-completion.png)
 
 ---
