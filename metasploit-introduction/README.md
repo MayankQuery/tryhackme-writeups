@@ -37,7 +37,8 @@ This repository documents my hands-on walkthrough and key learnings from the **"
 ---
 
 ## Completion
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/metasploit-introduction/images/metasploit-introduction-completion.png)
+![Room Practice]()
 
 ---
 
