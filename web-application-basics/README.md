@@ -18,6 +18,7 @@ This room introduced the core foundations of how web applications work, covering
 
 ## Screenshots
 ![THM Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/web-application-basics/screenshots/web-application-basics-completion.png)
+![Room Practice1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/web-application-basics/screenshots/web-application-baiscs-practice1.png)
 
 ---
 
