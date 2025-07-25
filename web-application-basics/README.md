@@ -17,17 +17,7 @@ This room introduced the core foundations of how web applications work, covering
 ---
 
 ## Screenshots
-
-All screenshots are in the [`/screenshots`](./screenshots) folder, capturing:
-- TryHackMe task completions
-- Hands-on practical exercises
-- Key HTTP request/response demos
-
----
-
-## Badge
-
-![THM Badge](https://assets.tryhackme.com/badges/webapplicationbasics.png)
+![THM Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/web-application-basics/screenshots/web-application-basics-completion.png)
 
 ---
 
