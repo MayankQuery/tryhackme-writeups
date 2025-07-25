@@ -25,22 +25,6 @@ All screenshots are in the [`/screenshots`](./screenshots) folder, capturing:
 
 ---
 
-## Notes
-
-Check out [`/notes`](./notes) for my personal learnings, definitions, and command-line snippets I used during the practical task.
-
----
-
-## Skills Gained
-
-| Category          | Skills Acquired                          |
-|------------------|------------------------------------------|
-| Web Fundamentals | HTTP, URLs, Methods, Status Codes        |
-| Security Basics  | Understanding Web Headers & Protections |
-| Tools Used       | Burp Suite, cURL, Browser DevTools       |
-
----
-
 ## Badge
 
 ![THM Badge](https://assets.tryhackme.com/badges/webapplicationbasics.png)
