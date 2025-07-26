@@ -40,7 +40,7 @@ It supports multiple protocols and uses wordlists to automate password guessing 
 ---
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/hydra/images/hydra-completion.png)
 ![Room Practice]()
 
 ---
