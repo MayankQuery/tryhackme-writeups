@@ -26,7 +26,7 @@ To gain a solid understanding of SOC environments and processes, and prepare for
 ---
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/soc-fundamentals/images/soc-fundamentals-completion.png)
 ![Room Practice]()
 
 ---
