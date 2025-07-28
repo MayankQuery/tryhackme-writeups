@@ -45,7 +45,8 @@ All practical work was completed using the TryHackMe virtual lab environment.
 ## Learning Outcome
 
 Completing this room strengthened my foundational knowledge of how SIEM systems operate in real-world environments, and their role in Security Operations Centers (SOCs).
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/introduction-to-siem/images/introduction-to-siem-completion.png)
+![Room Practice]()
 
 ---
 
