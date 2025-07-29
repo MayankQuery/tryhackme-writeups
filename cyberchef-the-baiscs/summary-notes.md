@@ -1,6 +1,6 @@
 ## Summary Notes
 
-All practical notes and question answers from the room are documented in [`summary-notes.md`](./summary-notes.md). It includes:
+All practical notes and question answers from the room are documented in [`summary-notes.md`](https://github.com/MayankQuery/tryhackme-writeups/blob/main/cyberchef-the-baiscs/summary-notes.md). It includes:
 
 - Descriptions of tasks
 - Explanation of each operation
