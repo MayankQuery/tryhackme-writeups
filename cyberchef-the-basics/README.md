@@ -33,7 +33,7 @@ CyberChef is an intuitive web app for carrying out a variety of "cyber" operatio
 | Description                |     Screenshot       |
 |----------------------------|----------------------|
 | Room Completion            | ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/cyberchef-the-basics/images/cyberchef-the-basics-completion.png) |
-| Extracting Email/IP Data   | ![Data Extraction]() |
+| Extracting Email/IP Data   | ![Data Extraction](https://github.com/MayankQuery/tryhackme-writeups/blob/main/cyberchef-the-basics/images/cyberchef-%20the-basics-practice.png) |
 
 ---
 
