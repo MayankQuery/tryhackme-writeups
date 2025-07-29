@@ -1,44 +1,47 @@
-# Description:
-This repository documents my completion of the TryHackMe room “CyberChef: The Basics”, a beginner-friendly introduction to the powerful and versatile tool used by cybersecurity professionals for data transformation, encoding/decoding, and quick analysis.
+# TryHackMe - CyberChef: The Basics
+
+This repository contains my notes, screenshots, and key learnings from the TryHackMe room: [CyberChef: The Basics](https://tryhackme.com/room/cyberchefbasic).
+
+CyberChef is an intuitive web app for carrying out a variety of "cyber" operations within a web browser. It's referred to as the *Swiss Army Knife* for cybersecurity professionals. This room introduces how to use CyberChef for data manipulation, transformation, and analysis.
 
 ---
 
-## Room Completion
+## Room Overview
 
-Platform: TryHackMe /n
-Room: CyberChef: The Basics /n
-Difficulty: Easy /n
-Status: Completed 100% /n
-
----
-
-## Topics Covered:
-
-Navigating CyberChef's Interface /n
-Accessing built-in operations and recipes /n
-Encoding and decoding (Base64, Hex, URL) /n
-Extracting and manipulating data /n
-Building custom "recipes" for automation /n
+- **Platform**: TryHackMe
+- **Room Name**: CyberChef: The Basics
+- **Category**: Defensive Security Tooling
+- **Difficulty**: Easy
+- **Status**: ✅ Completed (100%)
+- **Time Taken**: ~60 minutes
 
 ---
 
-## Practice & Screenshots
+## Topics Covered
 
-1. Navigating CyberChef:
-2. Creating My First Recipe:
-3. Extracting Data Using Recipes:
+- Accessing the CyberChef tool
+- Navigating the CyberChef interface
+- Performing basic encoding and decoding
+- Building and applying "recipes"
+- Extracting useful data like emails, IPs, and domains
+- Automating transformation pipelines
+
+---
+
+## Screenshots
+
+| Description                |     Screenshot       |
+|----------------------------|----------------------|
+| Room Completion            | ![Room Completion]() |
+| Extracting Email/IP Data   | ![Data Extraction]() |
 
 ---
 
 ## Key Learnings
 
-Learned to visually build and apply chains of data manipulation operations.
-Used decoding and encoding tools (Base64, URL encoding, hex) in a practical setting.
-Practiced transforming raw inputs into readable and usable information.
-Understood the importance of intuitive tools in rapid security analysis.
+- CyberChef simplifies common cybersecurity tasks like encoding, decoding, and data extraction.
+- Recipes allow you to chain multiple operations for quick and reusable workflows.
+- The drag-and-drop interface enables visual transformation pipelines without writing code.
+- Useful in forensic investigations, malware analysis, and CTFs.
 
 ---
-
-## Screenshot
-![Room Completion]()
-![Room Practice]()
