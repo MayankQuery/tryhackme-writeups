@@ -5,20 +5,20 @@ This repository documents my completion of the TryHackMe room “CyberChef: The 
 
 ## Room Completion
 
-Platform: TryHackMe \n
-Room: CyberChef: The Basics \n
-Difficulty: Easy \n
-Status: Completed 100% \n
+Platform: TryHackMe /n
+Room: CyberChef: The Basics /n
+Difficulty: Easy /n
+Status: Completed 100% /n
 
 ---
 
 ## Topics Covered:
 
-Navigating CyberChef's Interface \n
-Accessing built-in operations and recipes \n
-Encoding and decoding (Base64, Hex, URL) \n
-Extracting and manipulating data \n
-Building custom "recipes" for automation \n
+Navigating CyberChef's Interface /n
+Accessing built-in operations and recipes /n
+Encoding and decoding (Base64, Hex, URL) /n
+Extracting and manipulating data /n
+Building custom "recipes" for automation /n
 
 ---
 
