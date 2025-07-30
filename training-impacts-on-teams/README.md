@@ -26,7 +26,7 @@ This repository documents my completion of the TryHackMe room [Training Impact o
 
 ## Summary Notes
 
-Summary notes for this room can be found [here](summary_notes.md).
+Summary notes for this room can be found [here](https://github.com/MayankQuery/tryhackme-writeups/blob/main/training-impacts-on-teams/summary-notes.md).
 
 ## Related Learning Path
 
