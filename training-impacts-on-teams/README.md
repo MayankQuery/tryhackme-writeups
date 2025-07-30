@@ -22,7 +22,7 @@ This repository documents my completion of the TryHackMe room [Training Impact o
 
 ## Room Completion
 
-![Completion Badge](completion_certificate.png)
+![Completion Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/training-impacts-on-teams/images/training-impacts-on-teams-completion.png)
 
 ## Summary Notes
 
