@@ -49,7 +49,7 @@ As a Junior Security Analyst (also called Tier 1 SOC Analyst), your primary resp
 
 ## Completion
 
-![Completion](completion-certificate.png)
+![Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/junior-security-analyst-intro/images/junior-security-analyst-intro-completion.png)
 
 ---
 
