@@ -38,7 +38,7 @@ Link to room: [TryHackMe - Pyramid of Pain](https://tryhackme.com/room/pyramidof
 ---
 
 ## Screenshots
-
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/pyramid-of-pain/images/pyramid-of-pain-completion.png)
 
 ---
 
