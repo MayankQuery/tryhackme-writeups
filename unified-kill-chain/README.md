@@ -20,7 +20,7 @@ This repository contains my personal notes, practical analysis, and summary of t
 
 | Room Banner | Completion Badge |
 |-------------|------------------|
-| ![Room task](./screenshots/room-banner.png) | ![Completion Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/unified-kill-chain/images/unified-kill-chain-completion.png) |
+| ![Room task](https://github.com/MayankQuery/tryhackme-writeups/blob/main/unified-kill-chain/images/unified-kill-chain-task.png) | ![Completion Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/unified-kill-chain/images/unified-kill-chain-completion.png) |
 
 ## Why Unified Kill Chain?
 
