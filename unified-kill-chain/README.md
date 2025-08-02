@@ -1,4 +1,4 @@
-# 🛡TryHackMe - Unified Kill Chain
+# TryHackMe - Unified Kill Chain
 
 This repository contains my personal notes, practical analysis, and summary of the TryHackMe room **Unified Kill Chain**, a critical concept in modern cyber defense frameworks. The room explores how attackers move through various stages of a cyber attack and how defenders can identify and mitigate risks using the Unified Kill Chain model.
 
@@ -20,7 +20,7 @@ This repository contains my personal notes, practical analysis, and summary of t
 
 | Room Banner | Completion Badge |
 |-------------|------------------|
-| ![Room task](./screenshots/room-banner.png) | ![Completion Badge](./screenshots/completion-badge.png) |
+| ![Room task](./screenshots/room-banner.png) | ![Completion Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/unified-kill-chain/images/unified-kill-chain-completion.png) |
 
 ## Why Unified Kill Chain?
 
