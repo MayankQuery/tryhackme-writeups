@@ -44,15 +44,7 @@ This room introduces the fundamentals of Cyber Threat Intelligence (CTI), includ
 
 | Static Threat Analysis | Threat Profile Built |
 |------------------------|----------------------|
-| ![Room Practice]() | ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-cyber-threat-intel/images/intro-to-cyber-threat-intel-completion.png) |
-
----
-
-## Summary Notes
-
-- Threat intelligence is **not just data**, it's **processed and contextual information**.
-- Dissemination of CTI is crucial and often takes the form of public threat reports (Mandiant, Unit42, etc.).
-- Practical threat analysis exercises help bridge theory with real-world application.
+| ![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-cyber-threat-intel/images/intro-to-cyber-threat-intel-practice.png) | ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-cyber-threat-intel/images/intro-to-cyber-threat-intel-completion.png) |
 
 ---
 
