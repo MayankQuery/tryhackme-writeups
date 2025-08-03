@@ -44,7 +44,7 @@ This room introduces the fundamentals of Cyber Threat Intelligence (CTI), includ
 
 | Static Threat Analysis | Threat Profile Built |
 |------------------------|----------------------|
-| ![Room Practice]() | ![Room Completion]() |
+| ![Room Practice]() | ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-cyber-threat-intel/images/intro-to-cyber-threat-intel-completion.png) |
 
 ---
 
