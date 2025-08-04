@@ -1,7 +1,5 @@
 # Threat Intelligence Tools | TryHackMe Walkthrough
 
-![THM Banner](https://tryhackme-badges.s3.amazonaws.com/your-username.png)
-
 ## Room Link:
 [TryHackMe - Threat Intelligence Tools](https://tryhackme.com/room/threatintelligencetools)
 
@@ -30,13 +28,7 @@ This room introduces threat intelligence from an OSINT perspective and dives int
 ---
 
 ## Screenshots
-
-| Tool | Screenshot |
-|------|------------|
-| UrlScan.io | ![urlscan](screenshots/urlscan.png) |
-| Abuse.ch | ![abusech](screenshots/abusech.png) |
-| PhishTool | ![phishtool](screenshots/phishtool.png) |
-| Cisco Talos | ![talos](screenshots/talos.png) |
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/threat-intelligence-tools/images/threat-intelligence-tools-completion.png) |
 
 ---
 
