@@ -27,8 +27,8 @@ This room introduces threat intelligence from an OSINT perspective and dives int
 
 ---
 
-## Screenshots
-![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/threat-intelligence-tools/images/threat-intelligence-tools-completion.png) |
+## Screenshot
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/threat-intelligence-tools/images/threat-intelligence-tools-completion.png)
 
 ---
 
