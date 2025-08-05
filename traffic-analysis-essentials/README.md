@@ -34,7 +34,7 @@ This repository contains my summary notes and practical experience from the [Tra
 
 ## Summary Notes
 
-All key takeaways and summaries can be found in [`summary_notes.md`](./summary_notes.md)
+All key takeaways and summaries can be found in [`summary_notes.md`](https://github.com/MayankQuery/tryhackme-writeups/blob/main/traffic-analysis-essentials/summary-notes.md)
 
 ---
 
