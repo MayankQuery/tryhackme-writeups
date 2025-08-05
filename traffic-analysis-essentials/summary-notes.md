@@ -1,10 +1,10 @@
-# 🧠 Summary Notes - Traffic Analysis Essentials (TryHackMe)
+# Summary Notes - Traffic Analysis Essentials (TryHackMe)
 
 This document contains key takeaways from the TryHackMe room **Traffic Analysis Essentials**, a part of the SOC Level 1 learning path.
 
 ---
 
-## 🔐 Task 1: Introduction
+## Task 1: Introduction
 
 - Traffic analysis is a fundamental skill for Security Operations Center (SOC) analysts.
 - Helps identify malicious activity, troubleshoot issues, and understand network behavior.
@@ -12,9 +12,9 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
 
 ---
 
-## 🌐 Task 2: Network Security and Network Data
+## Task 2: Network Security and Network Data
 
-### 🔸 What is Network Security?
+### What is Network Security?
 
 - Network Security: Protecting network infrastructure from unauthorized access, misuse, or theft.
 - Involves:
@@ -24,7 +24,7 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
   - VPNs
   - Zero Trust models
 
-### 🔸 Network Traffic & Data
+### Network Traffic & Data
 
 - Network traffic includes all data moving across a network.
 - Protocols involved:
@@ -33,13 +33,13 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
   - **HTTP/HTTPS**: Web traffic
   - **SMTP/IMAP/POP3**: Email protocols
 
-### 🔸 Packet Structure
+### Packet Structure
 
 - A network packet has:
   - Header (source, destination, protocol)
   - Payload (actual data)
 
-### 🔸 Capturing Network Data
+### Capturing Network Data
 
 - Tools:
   - **Wireshark**: GUI-based network analyzer
@@ -47,15 +47,15 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
 
 ---
 
-## 📈 Task 3: Traffic Analysis
+## Task 3: Traffic Analysis
 
-### 🔸 Why Analyze Traffic?
+### Why Analyze Traffic?
 
 - Detect intrusions, malware, or data exfiltration
 - Understand attack patterns
 - Investigate anomalies
 
-### 🔸 Key Analysis Techniques
+### Key Analysis Techniques
 
 1. **Protocol Analysis**
    - What type of traffic is seen? (DNS, HTTP, etc.)
@@ -64,14 +64,14 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
 3. **Signature-Based Analysis**
    - Matching known attack patterns (Snort/Suricata rules)
 
-### 🔸 Indicators of Compromise (IOCs)
+### Indicators of Compromise (IOCs)
 
 - Unusual ports or destinations
 - Repeated failed login attempts
 - Large or unexpected data transfers
 - Communication with known malicious IPs/domains
 
-### 🔸 Wireshark Filters Examples
+### Wireshark Filters Examples
 
 - `http` – shows HTTP traffic
 - `ip.addr == 192.168.1.1` – filter packets to/from a specific IP
@@ -80,7 +80,7 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
 
 ---
 
-## ✅ Task 4: Conclusion
+## Task 4: Conclusion
 
 - Network traffic analysis is vital for detecting threats in real-time.
 - Wireshark is a core tool every SOC analyst should know.
@@ -88,12 +88,12 @@ This document contains key takeaways from the TryHackMe room **Traffic Analysis 
 
 ---
 
-## 📌 Useful Resources
+## Useful Resources
 
 - [Wireshark Filters Cheat Sheet](https://cheatography.com/stefano-picco/cheat-sheets/wireshark-display-filter/)
 - [OWASP Traffic Analysis Tools](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 
 ---
 
-📝 **Completed By:** Mayank Pathak  
-🔗 [GitHub Profile](https://github.com/MayankQuery)
+**Completed By:** Mayank Pathak  
+[GitHub Profile](https://github.com/MayankQuery)
