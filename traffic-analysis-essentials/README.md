@@ -41,6 +41,7 @@ All key takeaways and summaries can be found in [`summary_notes.md`](https://git
 ## Completion Proof
 
 ![Traffic Analysis Essentials - Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/traffic-analysis-essentials/images/traffic-analysis-essentials-completion.png)
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/traffic-analysis-essentials/images/traffic-analysis-essentials-practice.png)
 
 ---
 
