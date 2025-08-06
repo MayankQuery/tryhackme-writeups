@@ -25,7 +25,7 @@ The **Snort Room** introduces the use of Snort as an Intrusion Detection/Prevent
 | PCAP Analysis    | Investigating threats from `.pcap` files |
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/snort/images/snort-completion.png)
 
 ## Snort Rules
 Example custom rule:
