@@ -26,6 +26,7 @@ The **Snort Room** introduces the use of Snort as an Intrusion Detection/Prevent
 
 ## Screenshot
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/snort/images/snort-completion.png)
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/snort/images/snort-practice.png)
 
 ## Snort Rules
 Example custom rule:
