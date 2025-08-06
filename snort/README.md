@@ -1,4 +1,4 @@
-# Snort Intrusion Detection - TryHackMe Room
+# Snort - TryHackMe Room
 
 This repository contains my notes, rules, and practical exercises completed during the [Snort Room](https://tryhackme.com/room/snort) on TryHackMe's SOC Level 1 Path.
 
