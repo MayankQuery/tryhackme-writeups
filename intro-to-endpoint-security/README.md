@@ -40,5 +40,5 @@ All relevant screenshots and outputs from the TryHackMe room are saved in the [i
 
 ## Author
 **Mayank Pathak**  
-🔗 [GitHub](https://github.com/MayankQuery) | 🌐 [LinkedIn](https://www.linkedin.com/in/mayank-pathak-/)
+[GitHub](https://github.com/MayankQuery) | [LinkedIn](https://www.linkedin.com/in/mayank-pathak-/)
 
