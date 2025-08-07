@@ -34,7 +34,7 @@ This repository documents my learning and notes from the **Intro to Endpoint Sec
 ---
 
 ## Screenshots
-All relevant screenshots and outputs from the TryHackMe room are saved in the [screenshots](https://github.com/MayankQuery/tryhackme-writeups/tree/main/intro-to-endpoint-security/images) folder.
+All relevant screenshots and outputs from the TryHackMe room are saved in the [images](https://github.com/MayankQuery/tryhackme-writeups/tree/main/intro-to-endpoint-security/images) folder.
 
 ---
 
