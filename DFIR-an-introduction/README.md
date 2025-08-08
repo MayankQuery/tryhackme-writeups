@@ -47,4 +47,4 @@ Use PICERL (Preparation, Identification, Containment, Eradication, Recovery, Les
 Tools like Autopsy, KAPE, and EZ Tools speed up investigations.
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/DFIR-an-introduction/images/DFIR-an-introduction-completion.png)
