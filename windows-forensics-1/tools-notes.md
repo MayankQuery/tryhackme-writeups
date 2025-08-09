@@ -4,7 +4,7 @@
 - Target modules: `Triage`, `AllTriage`
 - Syntax:
 '''bash
-kape.exe --tsource <path_to_mount> --tdest <output_folder> --targets Triage '''
+kape.exe --tsource <path_to_mount> --tdest <output_folder> --targets Triage
 
 
 ## Regripper
