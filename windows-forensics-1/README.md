@@ -38,11 +38,3 @@ The focus is on acquiring and analyzing Windows Registry hives to identify user/
 ![Room Practice 2]()
 
 ---
-
-## Quick Workflow / Commands
-
-### 1) Acquire Disk Image
-**FTK Imager GUI:** create `.E01` or raw `.dd`  
-**Linux (dd method):**
-```bash
-sudo dd if=/dev/sdX of=./artifacts/image.dd bs=4M status=progress conv=sync,noerror
