@@ -35,6 +35,6 @@ The focus is on acquiring and analyzing Windows Registry hives to identify user/
 ## Screenshots
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-forensics-1/images/windows-forensics-1-completion.png)
 ![Room Practice 1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-forensics-1/images/windows-forensics-1-completion.png)
-![Room Practice 2]()
+![Room Practice 2](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-forensics-1/images/windows-forensics-1-practice2.png)
 
 ---
