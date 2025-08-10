@@ -36,6 +36,6 @@ The room teaches how emails are structured, how they travel, how to view and ana
 
 # Screenshots
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/phishing-analysis-fundamentals/images/phishing-analysis-fundamentals-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/phishing-analysis-fundamentals/images/phishing-analysis-fundamentals-practice.png)
 
 ---
