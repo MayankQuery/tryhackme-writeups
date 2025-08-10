@@ -33,3 +33,9 @@ The room teaches how emails are structured, how they travel, how to view and ana
 - (Optional) TryHackMe account for hands-on lab.
 
 ---
+
+# Screenshots
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/phishing-analysis-fundamentals/images/phishing-analysis-fundamentals-completion.png)
+![Room Practice]()
+
+---
