@@ -16,8 +16,7 @@ This repository contains my notes, findings, and takeaways from completing the T
 ## Contents
 - `README.md` — this file  
 - `notes.md` — my detailed notes & answers to room tasks  
-- `screenshots/` — screenshots of the room UI, sample emails and indicators (add your images here)  
-- `resources.md` — collection of helpful links and references
+- `images/` — screenshots of the room UI, sample emails and indicators 
 
 ---
 
@@ -58,7 +57,7 @@ When assessing a suspicious email, I use this quick checklist:
 ---
 
 ## Screenshots
-(Place screenshots in `screenshots/` and reference them here — e.g. `screenshots/paypal_fake.png`)
+`https://github.com/MayankQuery/tryhackme-writeups/blob/main/phishing-emails-in-action/images/phishing-emails-in-action-completion.png`
 
 ---
 
@@ -75,11 +74,6 @@ This room is TryHackMe-hosted and interactive. To reproduce:
 1. Create a free account at TryHackMe (https://tryhackme.com).  
 2. Search for **"Phishing Emails in Action"** (module: SOC Level 1).  
 3. Launch the room and follow the tasks.  
-4. Save screenshots and paste them into `screenshots/` for documentation.
-
----
-
-## Notes & Answers
-See `notes.md` for step-by-step answers and my observations for each task. (Add your task answers to that file.)
+4. Save screenshots and paste them into `images/` for documentation.
 
 ---
