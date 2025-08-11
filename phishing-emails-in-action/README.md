@@ -15,7 +15,7 @@ This repository contains my notes, findings, and takeaways from completing the T
 
 ## Contents
 - `README.md` — this file  
-- `notes.md` — my detailed notes & answers to room tasks  
+- `notes.md` — my detailed notes to room tasks  
 - `images/` — screenshots of the room UI, sample emails and indicators 
 
 ---
@@ -32,7 +32,7 @@ I completed the following tasks in the room:
 7. DHL Express Courier Shipping notice — shipping scam techniques  
 8. Conclusion — summary & prevention tips
 
-(Full walkthrough with screenshots is in `notes.md`.)
+(Full walkthrough in `notes.md`.)
 
 ---
 
@@ -57,7 +57,7 @@ When assessing a suspicious email, I use this quick checklist:
 ---
 
 ## Screenshots
-`https://github.com/MayankQuery/tryhackme-writeups/blob/main/phishing-emails-in-action/images/phishing-emails-in-action-completion.png`
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/phishing-emails-in-action/images/phishing-emails-in-action-completion.png)
 
 ---
 
