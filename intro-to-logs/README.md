@@ -41,6 +41,6 @@ Following this module, I’ll be moving into:
 ---
 
 ## Completion Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-logs/images/intro-to-logs-completion.png)
 
 ---
