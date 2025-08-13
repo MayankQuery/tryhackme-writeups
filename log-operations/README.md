@@ -70,3 +70,8 @@ A structured write‑up and study notes for the **TryHackMe: Log Operations** ro
 * Avoiding common configuration anti‑patterns (e.g., inconsistent timestamps, missing time sync, untested pipelines).
 
 ---
+
+## Screenshot
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/log-operations/images/log-operations-completion.png)
+
+---
