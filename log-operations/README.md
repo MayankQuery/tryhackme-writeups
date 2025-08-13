@@ -42,11 +42,6 @@ A structured write‑up and study notes for the **TryHackMe: Log Operations** ro
   * [Linux: rsyslog ➜ SIEM](#linux-rsyslog--siem)
   * [Windows: Event Forwarding](#windows-event-forwarding)
   * [Logrotate: Retention Policy](#logrotate-retention-policy)
-* [KPIs & Metrics](#kpis--metrics)
-* [Glossary](#glossary)
-* [Repository Structure](#repository-structure)
-* [How to Use This Repo](#how-to-use-this-repo)
-* [License](#license)
 
 ---
 
@@ -68,6 +63,9 @@ A structured write‑up and study notes for the **TryHackMe: Log Operations** ro
 * Balancing **volume vs. value** with sampling, filtering, and tiered storage.
 * Setting **retention** by regulation and investigation needs (hot/warm/cold tiers).
 * Avoiding common configuration anti‑patterns (e.g., inconsistent timestamps, missing time sync, untested pipelines).
+
+## Task‑by‑Task Notes
+Please check out [notes.md]() file attached in this repo.
 
 ---
 
