@@ -70,10 +70,3 @@ A structured write‑up and study notes for the **TryHackMe: Log Operations** ro
 * Avoiding common configuration anti‑patterns (e.g., inconsistent timestamps, missing time sync, untested pipelines).
 
 ---
-
-
-  endscript
-}
-```
-
----
