@@ -1,69 +1,69 @@
-## Task‑by‑Task Notes
+# Task‑by‑Task Notes
 
-### Task 1 — Introduction
+## Task 1 — Introduction
 
 Sets the context for why log operations matter: logs are **evidence of historical activity** and the backbone of detection & investigations.
 
-### Task 2 — Log Configuration
+## Task 2 — Log Configuration
 
 * Define **sources** (endpoints, servers, network devices, cloud services).
 * Choose **formats & transports**: syslog, JSON, CEF/LEEF, agents vs. agentless, TLS.
 * Normalize early where possible; preserve **raw** for forensics.
 
-### Task 3 — Where To Start After Deciding the Logging Purpose
+## Task 3 — Where To Start After Deciding the Logging Purpose
 
 * Start with **purpose-first** design (e.g., ransomware detection, PCI DSS audit).
 * Map **use cases → required fields → sources → parsers**.
 * Build a **minimal viable pipeline** before scaling.
 
-### Task 4 — Configuration Dilemma: Planning and Implementation
+## Task 4 — Configuration Dilemma: Planning and Implementation
 
 * Document **data flows**: Source → Collector → Broker → SIEM/Data Lake → Alerts.
 * Plan **time synchronization** (NTP), **TLS**, **failover**, and **backpressure** handling.
 * Implement **schema governance** (e.g., ECS/OCSF) to reduce parser drift.
 
-### Task 5 — Principles and Difficulties
+## Task 5 — Principles and Difficulties
 
 * **Integrity:** hashing, immutability, WORM storage, RBAC.
 * **Availability:** HA collectors, queues (Kafka/RabbitMQ), retry policies.
 * **Scalability:** sharding, tiered storage, index lifecycle mgmt.
 * **Observability of the pipeline:** health metrics, dead letter queues.
 
-### Task 6 — Common Mistakes and Best Practices
+## Task 6 — Common Mistakes and Best Practices
 
 * **Mistakes:** logging everything, inconsistent timestamps/timezones, no test data, dropping raw logs, unfixed noisy alerts.
 * **Best Practices:** schema standards, field-level QA, sample-based tuning, use‑case driven ingestion, documented runbooks.
 
-### Task 7 — Conclusion
+## Task 7 — Conclusion
 
 You should now be able to design, implement, and continuously improve log pipelines aligned to detection and compliance goals.
 
 ---
 
-## Practical Checklists
+# Practical Checklists
 
-### Design & Scope
+## Design & Scope
 
 * [ ] Define primary **use cases** and SLAs (MTTD/MTTR targets).
 * [ ] Build a **source–field–use‑case** matrix.
 * [ ] Pick a **schema** (ECS/OCSF) and stick to it.
 * [ ] Decide on **agents vs. agentless** per platform & risk.
 
-### Retention & Storage
+## Retention & Storage
 
 * [ ] Map **regulatory** requirements (e.g., PCI, HIPAA, ISO 27001).
 * [ ] Tiered storage (**hot/warm/cold**), with **index lifecycle** policies.
 * [ ] Document **retention by log type** (auth, DNS, EDR, proxy, cloud).
 * [ ] Test **restore** and **replay** procedures regularly.
 
-### Quality & Normalization
+## Quality & Normalization
 
 * [ ] Enforce **time sync** (NTP) and **UTC** timestamps.
 * [ ] Validate **parsers** with sample events; add **schema tests** to CI.
 * [ ] Normalize **hostnames**, **user IDs**, **IP fields**, **action verbs**.
 * [ ] Track **dropped events** and **parse failures**.
 
-### Security & Compliance
+## Security & Compliance
 
 * [ ] TLS for data in transit; **WORM/immutable** for critical logs.
 * [ ] RBAC & least privilege for SIEM/data lake.
@@ -72,16 +72,17 @@ You should now be able to design, implement, and continuously improve log pipeli
 
 ---
 
-## Sample Configs
+# Sample Configs
 
 > Samples are generic and for learning only—adjust to your environment.
 
-### Linux: rsyslog ➜ SIEM
+## Linux: rsyslog ➜ SIEM
 
 ```conf
 # /etc/rsyslog.d/60-forward.conf
 # Forward JSON-formatted logs to a remote collector over TLS
 module(load="imuxsock")
+
 module(load="imjournal" StateFile="imjournal.state")
 module(load="omrelp")
 
@@ -98,7 +99,7 @@ template(name="jsonFmt" type="list") {
 *.* :omrelp:collector.example.com:2514;jsonFmt;RSYSLOG_SyslogProtocol23Format
 ```
 
-### Windows: Event Forwarding
+## Windows: Event Forwarding
 
 ```powershell
 # Create a subscription on the collector (WEF)
@@ -118,7 +119,7 @@ $Subscription.Query = @'
 # (Attach $Subscription to the collector using wecutil / Windows Event Collector GUI)
 ```
 
-### Logrotate: Retention Policy
+## Logrotate: Retention Policy
 
 ```conf
 /var/log/myapp/*.log {
@@ -131,3 +132,8 @@ $Subscription.Query = @'
   dateext
   postrotate
     systemctl reload rsyslog > /dev/null 2>&1 || true
+  endscript
+}
+```
+
+---
