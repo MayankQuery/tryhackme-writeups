@@ -65,7 +65,7 @@ A structured write‑up and study notes for the **TryHackMe: Log Operations** ro
 * Avoiding common configuration anti‑patterns (e.g., inconsistent timestamps, missing time sync, untested pipelines).
 
 ## Task‑by‑Task Notes
-Please check out [notes.md]() file attached in this repo.
+Please check out [notes.md](https://github.com/MayankQuery/tryhackme-writeups/blob/main/log-operations/notes.md) file attached in this repo.
 
 ---
 
