@@ -43,10 +43,11 @@ yara yara_rule_sample.yar sample_logs.log
 ```
 ## Key Takeaways
 
-Logs are critical for incident detection and investigation.
+- Logs are critical for incident detection and investigation.
 
-Using the right tools & regular expressions can dramatically reduce analysis time.
+- Using the right tools & regular expressions can dramatically reduce analysis time.
 
-Automated tools speed up repetitive tasks, while manual analysis ensures context awareness.
+- Automated tools speed up repetitive tasks, while manual analysis ensures context awareness.
 
-Rule-based systems like YARA and Sigma help standardize detection.
+- Rule-based systems like YARA and Sigma help standardize detection.
+  
