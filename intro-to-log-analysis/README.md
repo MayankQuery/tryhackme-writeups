@@ -1,6 +1,5 @@
 # Intro to Log Analysis – TryHackMe
-
-![THM Badge](https://tryhackme-badges.s3.amazonaws.com/yourusername.png)  
+ 
 **Room Difficulty:** Easy  
 **Completion:** 100%  
 **Time:** ~60 min
