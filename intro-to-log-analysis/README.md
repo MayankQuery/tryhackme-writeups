@@ -27,7 +27,7 @@ The room covers **log analysis best practices, investigation theory, detection e
 - **OS:** Linux
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-log-analysis/images/intro-to-log-analysis-completion.png)
 ![Room Practice]()
 
 ## Sample Commands
