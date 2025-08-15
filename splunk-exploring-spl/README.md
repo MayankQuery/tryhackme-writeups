@@ -103,6 +103,6 @@ index=windowslogs | stats count by status
 - Chaining queries for advanced analysis
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/splunk-exploring-spl/images/splunk-exploring-spl-completion.png)
 ![Room Practice1]()
 ![Room Practice2]()
