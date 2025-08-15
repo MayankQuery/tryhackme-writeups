@@ -64,21 +64,21 @@ index=<index_name> source=<source_name> <search_terms>
 ### Task 5 – Filtering the Results
 ```bash
 # Example: Filter events from the "web" index containing the keyword "error"
-index=web "error"
+index=windowslogs "error"
 ```
 - Filters reduce noise and improve analysis efficiency.
 
 ### Task 6 – Structuring the Search Results
 ```bash
 # Example: Display only specific fields
-index=web | fields host, status, method
+index=windowslogs | fields host, status, method
 ```
 - Field selection helps focus on relevant attributes.
 
 ### Task 7 – Transformational Commands
 ```bash
 # Example: Count events grouped by status code
-index=web | stats count by status
+index=windowslogs | stats count by status
 ```
 - Commands like stats, top, rare transform raw events into meaningful summaries.
 
