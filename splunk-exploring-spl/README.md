@@ -104,5 +104,5 @@ index=windowslogs | stats count by status
 
 ## Screenshot
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/splunk-exploring-spl/images/splunk-exploring-spl-completion.png)
-![Room Practice1]()
+![Room Practice1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/splunk-exploring-spl/images/splunk-exploring-spl-practice1.png)
 ![Room Practice2]()
