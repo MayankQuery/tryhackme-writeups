@@ -35,40 +35,53 @@ Before starting this room, it’s recommended to complete:
 # SPL: Search Processing Language
 # Used in Splunk to query, filter, transform, and visualize machine data.
 ```
-### Task 3 – Search & Reporting App Overview
-```bash
-Navigated the Search & Reporting app in Splunk.
 
-Learned where to input SPL queries and how results are displayed.
+### Task 2 – Connect with the Lab
+
+- Launched the Splunk lab environment via TryHackMe's AttackBox/VPN.
+
+- Verified connectivity to the target IP: 10.201.71.112.
+
+- Confirmed that Splunk's Search & Reporting app is accessible for exercises.
+
+```bash
+# Example: Check Splunk version
+splunk version
 ```
+### Task 3 – Search & Reporting App Overview
+
+- Navigated the Search & Reporting app in Splunk.
+
+- Learned where to input SPL queries and how results are displayed.
+
 ### Task 4 – SPL Overview
 ```bash
 # Basic SPL query format
 index=<index_name> source=<source_name> <search_terms>
-
-SPL uses commands, functions, and arguments combined to refine searches.
 ```
+- SPL uses commands, functions, and arguments combined to refine searches.
+
 ### Task 5 – Filtering the Results
 ```bash
 # Example: Filter events from the "web" index containing the keyword "error"
 index=web "error"
-
-Filters reduce noise and improve analysis efficiency.
 ```
+- Filters reduce noise and improve analysis efficiency.
+
 ### Task 6 – Structuring the Search Results
 ```bash
 # Example: Display only specific fields
 index=web | fields host, status, method
-
-Field selection helps focus on relevant attributes.
 ```
+- Field selection helps focus on relevant attributes.
+
 ### Task 7 – Transformational Commands
 ```bash
 # Example: Count events grouped by status code
 index=web | stats count by status
-
-Commands like stats, top, rare transform raw events into meaningful summaries.
 ```
+- Commands like stats, top, rare transform raw events into meaningful summaries.
+
 ## Key Takeaways
 
 - SPL is powerful yet simple when broken into logical steps.
