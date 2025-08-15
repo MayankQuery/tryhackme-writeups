@@ -101,3 +101,8 @@ index=windowslogs | stats count by status
 - Transformational data processing in Splunk
 
 - Chaining queries for advanced analysis
+
+## Screenshot
+![Room Completion]()
+![Room Practice1]()
+![Room Practice2]()
