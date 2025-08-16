@@ -1,13 +1,13 @@
 # TryHackMe — Intro to Detection Engineering (SOC Level 2)
 
-> **Room:** Intro to Detection Engineering
-> **Track:** SOC Level 2 → Detection Engineering
-> **Difficulty:** Easy
-> **Est. Time:** 60 min
-> **Status:** Room completed (100%)
-> **Users in Room:** 23,579
-> **Created:** \~802 days ago
-> **Copyright:** © TryHackMe 2018–2025
+- **Room:** Intro to Detection Engineering
+- **Track:** SOC Level 2 → Detection Engineering
+- **Difficulty:** Easy
+- **Est. Time:** 60 min
+- **Status:** Room completed (100%)
+- **Users in Room:** 23,579
+- **Created:** \~802 days ago
+- **Copyright:** © TryHackMe 2018–2025
 
 ---
 
