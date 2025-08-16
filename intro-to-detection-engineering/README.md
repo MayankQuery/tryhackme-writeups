@@ -69,7 +69,7 @@ Approach: Leverage Windows security logs (47xx series), focus on critical groups
 
 ## Screenshot
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-detection-engineering/images/intro-to-detection-engineering-completion.png)
-![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-detection-engineering/images/intro-to-detection-engineering-completion.png)
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-detection-engineering/images/intro-to-detection-engineering-practice.png)
 
 ---
 
