@@ -70,7 +70,7 @@ This room gave me a **solid baseline understanding of Threat Hunting**, its goal
 
 ## Screenshots
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/threat-hunting-introduction/images/threat-hunting-introduction-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/threat-hunting-introduction/images/threat-hunting-introduction-practice.png)
 
 ---
 
