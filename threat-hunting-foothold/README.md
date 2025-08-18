@@ -416,6 +416,6 @@ Get-Content $Path | ForEach-Object {
 ---
 
 ## Screenshots / Artifacts
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/threat-hunting-foothold/images/threat-hunting-foothold-completion.png)
 
 ---
