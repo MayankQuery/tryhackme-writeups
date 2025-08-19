@@ -123,8 +123,6 @@ Document tuned versions per your environment in `detections/`.
 
 ### Badges 
 
-```markdown
 ![THM Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-threat-emulation/images/intro-to-threat-emulation-completion.png)
-```
 
 ---
