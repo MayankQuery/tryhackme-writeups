@@ -121,8 +121,10 @@ Document tuned versions per your environment in `detections/`.
 
 ---
 
-### Badges 
+### Screenshots
 
 ![THM Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-threat-emulation/images/intro-to-threat-emulation-completion.png)
+![Room Practice 1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/intro-to-threat-emulation/images/intro-to-threat-emulation-practice1.png)
+![Room Practice 2]()
 
 ---
