@@ -142,7 +142,7 @@ Task 6 — Conclusion: Maturity steps & next actions
 
 ## Screenshots
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/incident-response-preparation/images/incident-response-preparation-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/incident-response-preparation/images/incident-response-preparation-practice.png)
 
 ---
 
