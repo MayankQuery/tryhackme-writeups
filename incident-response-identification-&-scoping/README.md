@@ -91,8 +91,9 @@ It contains notes, write-ups, and references useful for:
 ---
 
 ## Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/incident-response-identification-&-scoping/images/%20incident-response-identification-&-scoping-completion.png)
 ![Room Practice 1]()
 ![Room Practice 2]()
+![Room PRactice 3]()
 
 ---
