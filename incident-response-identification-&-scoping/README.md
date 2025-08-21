@@ -92,7 +92,7 @@ It contains notes, write-ups, and references useful for:
 
 ## Screenshot
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/incident-response-identification-&-scoping/images/%20incident-response-identification-&-scoping-completion.png)
-![Room Practice 1]()
+![Room Practice 1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/incident-response-identification-%26-scoping/images/incident-response-identification-%26-scoping-practice1.png)
 ![Room Practice 2]()
 ![Room PRactice 3]()
 
