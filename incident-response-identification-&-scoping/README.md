@@ -89,3 +89,10 @@ It contains notes, write-ups, and references useful for:
 - **Cybersecurity students & professionals**  
 
 ---
+
+## Screenshot
+![Room Completion]()
+![Room Practice 1]()
+![Room Practice 2]()
+
+---
