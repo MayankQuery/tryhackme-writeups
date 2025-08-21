@@ -1,6 +1,6 @@
 # TryHackMe SOC Level 2 – Incident Response: Identification & Scoping  
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/your-username.png)  
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MayankQuery.png)  
 
 ## Room Overview  
 **Room Name:** Incident Response – Identification & Scoping  
