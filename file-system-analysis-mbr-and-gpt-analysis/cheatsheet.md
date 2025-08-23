@@ -46,5 +46,3 @@ gdisk /dev/sdX   # then use: v (verify), i (partition info), p (print), b (backu
 ```
 
 ---
-
-🧯
