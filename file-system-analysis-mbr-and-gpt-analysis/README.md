@@ -77,10 +77,10 @@ sudo gdisk /dev/sdX      # 'v' to verify, 'i' to inspect a partition
 ---
 
 ## Screenshot
-![Room Completion]()
-![Room Practice]()
-![Room Practice]()
-![Room Practice]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-mbr-and-gpt-analysis/images/file-system-analysis-mbr-and-gpt-analysis-completion.png)
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-mbr-and-gpt-analysis/images/file-system-analysis-mbr-and-gpt-analysis-practice1.png)
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-mbr-and-gpt-analysis/images/file-system-analysis-mbr-and-gpt-analysis-practice2.png)
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-mbr-and-gpt-analysis/images/file-system-analysis-mbr-and-gpt-analysis-practice3.png)
 
 ---
 
