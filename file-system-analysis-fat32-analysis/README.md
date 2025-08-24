@@ -55,8 +55,10 @@ istat -o 2048 evidence/sample.img <inode>
 
 ## Screenshots
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-completion.png)
-![Room Practice 1]()
-![Room PRactice 2]()
-![Room PRactice 3]()
+![Room Practice 1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-practice1.png)
+![Room Practice 2](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-practice2.png)
+![Room Practice 3](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-practice3.png)
+![Room Practice 4](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-practice4.png)
+![Room Practice 5](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-practice5.png)
 
 ---
