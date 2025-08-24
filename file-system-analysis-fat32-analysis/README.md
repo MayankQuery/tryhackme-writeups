@@ -1,7 +1,3 @@
-Awesome—here’s a complete, copy-paste-ready `README.md` you can drop straight into a new GitHub repo for the TryHackMe room **“FAT32 Analysis”**. I’ve included a clean repo structure, commands (Sleuth Kit + Autopsy), cheat-sheets for BPB fields, common artifacts, MITRE ATT\&CK mappings, and ready-to-use checklists.
-
----
-
 # FAT32 Analysis — TryHackMe Room Walkthrough & Notes
 
 > **Room:** *FAT32 Analysis* (Advanced Endpoint Investigations → File System Analysis)
@@ -9,7 +5,7 @@ Awesome—here’s a complete, copy-paste-ready `README.md` you can drop straigh
 
 ![Room Banner](./assets/room-banner.png)
 
-## 🎯 What you’ll learn
+## What you’ll learn
 
 * Explore the **FAT32 filesystem structure** (Reserved, FAT, and Data Areas)
 * Apply **forensic analysis & data recovery** techniques specific to FAT32
@@ -23,7 +19,7 @@ Awesome—here’s a complete, copy-paste-ready `README.md` you can drop straigh
 
 ---
 
-## 📦 Repo Structure
+## Repo Structure
 
 ```
 FAT32-Analysis-THM/
@@ -43,7 +39,7 @@ FAT32-Analysis-THM/
 
 ---
 
-## ✅ Prerequisites
+## Prerequisites
 
 * TryHackMe Rooms: *Pre Security*, *Intro to Cold System Forensics*, *Autopsy*
 * Tools installed:
@@ -55,7 +51,7 @@ FAT32-Analysis-THM/
 
 ---
 
-## 🧭 Quick Start (Analyst Workflow)
+## Quick Start (Analyst Workflow)
 
 > Replace `evidence/sample.img` with your actual image path.
 
@@ -93,7 +89,7 @@ istat -o 2048 evidence/sample.img <inode> > notes/istat_<inode>.txt
 
 ---
 
-## 🧱 FAT32 Structure (At a Glance)
+## FAT32 Structure (At a Glance)
 
 ### Areas
 
@@ -122,7 +118,7 @@ istat -o 2048 evidence/sample.img <inode> > notes/istat_<inode>.txt
 
 ---
 
-## 🔎 Analysis Techniques
+## Analysis Techniques
 
 ### 1) Detect Hidden Files & Directories (T1564.001)
 
@@ -194,7 +190,7 @@ sha256sum recovered/<inode>.bin >> notes/hashes.txt
 
 ---
 
-## 🧰 Handy Commands (Cheat Sheet)
+## Handy Commands (Cheat Sheet)
 
 ```bash
 # Partition map
@@ -222,7 +218,7 @@ strings -a out.bin | head
 
 ---
 
-## 🧾 Scripts
+## Scripts
 
 ### `scripts/cluster_extract.sh`
 
@@ -256,7 +252,7 @@ BackupBootSector:
 
 ---
 
-## 🧪 Verification Checklist
+## Verification Checklist
 
 * [ ] Validated **BPB** values in Boot Sector & Backup Boot Sector
 * [ ] Confirmed **NumFATs = 2** and **FATSz32** matches `fsstat`
@@ -269,7 +265,7 @@ BackupBootSector:
 
 ---
 
-## 🧰 Tools & Versions (suggested)
+## Tools & Versions (suggested)
 
 * Autopsy (latest)
 * Sleuth Kit (e.g., 4.12+): `mmls`, `fsstat`, `fls`, `icat`, `istat`
@@ -278,7 +274,7 @@ BackupBootSector:
 
 ---
 
-## 🗂️ Findings Template (`notes/findings.md`)
+## Findings Template (`notes/findings.md`)
 
 ```markdown
 # Findings — FAT32 Analysis
@@ -312,7 +308,7 @@ BackupBootSector:
 
 ---
 
-## 🧩 Challenge Notes
+## Challenge Notes
 
 Use everything above:
 
@@ -324,7 +320,7 @@ Use everything above:
 
 ---
 
-## 🧭 MITRE ATT\&CK Mapping
+## MITRE ATT\&CK Mapping
 
 | Technique                    | ID            | Where it shows                                        |
 | ---------------------------- | ------------- | ----------------------------------------------------- |
@@ -332,13 +328,6 @@ Use everything above:
 | Indicator Removal: Timestomp | **T1070.006** | Created/Modified/Access times inconsistent            |
 | File Deletion                | **T1070.004** | 0xE5 entries, recoverable clusters                    |
 | Clear Persistence            | **T1070.009** | `autorun.inf`, rogue `.lnk`, dropped binaries on root |
-
----
-
-## 📝 License
-
-This repository is provided for educational and defensive security purposes.
-Consider using **MIT License** or your preferred open-source license.
 
 ---
 
