@@ -3,8 +3,6 @@
 > **Room:** *FAT32 Analysis* (Advanced Endpoint Investigations → File System Analysis)  
 > **Difficulty:** Hard • **Est. time:** 90 min • **Status:** Completed (100%)
 
-![Room Banner](./assets/room-banner.png)
-
 ## Objectives
 - Explore the FAT32 filesystem structure
 - Perform forensic and data recovery on FAT32
@@ -56,7 +54,7 @@ istat -o 2048 evidence/sample.img <inode>
 ---
 
 ## Screenshots
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/file-system-analysis-fat32-analysis/images/file-system-analysis-fat32-analysis-completion.png)
 ![Room Practice 1]()
 ![Room PRactice 2]()
 ![Room PRactice 3]()
