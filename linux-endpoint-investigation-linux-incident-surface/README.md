@@ -11,6 +11,7 @@ It’s built for fast note‑taking, reproducible triage, and interview‑ready 
 
 - `notes.md` - summary notes
 - `cheatsheets.md` — quick commands and references
+- `images/` - Screenshot of the room badge and practice
 
 ---
 
