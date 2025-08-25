@@ -33,6 +33,11 @@ sudo tools-scripts/parse_logs.sh
 
 ### Screenshot
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-completion.png)
+![Room Practice 1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-practice1.png)
+![Room Practice 2](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-practice2.png)
+![Room Practice 3](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-practice3.png)
+![Room Practice 4](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-practice4.png)
+![Room Practice 5](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-practice5.png)
 
 ---
 
