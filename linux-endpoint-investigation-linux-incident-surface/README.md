@@ -38,8 +38,8 @@ sudo tools-scripts/disk_footprints.sh
 sudo tools-scripts/parse_logs.sh
 ```
 
-### Artifacts
-All scripts write to `./artifacts/<hostname>-<YYYYmmdd-HHMMSS>/`.
+### Screenshot
+![Room Completion]()
 
 ---
 
@@ -57,6 +57,3 @@ This repo demonstrates:
 - Clear, teachable explanations
 
 ---
-
-## Attribution
-- Room by **TryHackMe** & creators. This repo is an **independent study aid**.
