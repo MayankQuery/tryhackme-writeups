@@ -9,12 +9,8 @@ It’s built for fast note‑taking, reproducible triage, and interview‑ready 
 
 ## Contents
 
-- `01-Overview/` — room summary, key concepts, threat vs. defense view
-- `02-Processes-Network/` — process and network triage playbooks + scripts
-- `03-Persistence/` — persistence hunting checklist + scripts
-- `04-Footprints-on-Disk/` — filesystem artefacts, exec traces, timestomping notes
-- `05-Logs/` — Linux logging quickref + parsers
-- `cheatsheets/` — quick commands and references
+- `notes.md/` - summary notes
+- `cheatsheets.md/` — quick commands and references
 
 ---
 
