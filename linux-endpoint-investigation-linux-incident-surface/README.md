@@ -9,8 +9,8 @@ It’s built for fast note‑taking, reproducible triage, and interview‑ready 
 
 ## Contents
 
-- `notes.md/` - summary notes
-- `cheatsheets.md/` — quick commands and references
+- `notes.md` - summary notes
+- `cheatsheets.md` — quick commands and references
 
 ---
 
