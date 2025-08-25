@@ -39,7 +39,7 @@ sudo tools-scripts/parse_logs.sh
 ```
 
 ### Screenshot
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-incident-surface/images/linux-endpoint-investigation-linux-incident-surface-completion.png)
 
 ---
 
