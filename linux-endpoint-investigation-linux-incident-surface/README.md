@@ -14,11 +14,7 @@ It’s built for fast note‑taking, reproducible triage, and interview‑ready 
 - `03-Persistence/` — persistence hunting checklist + scripts
 - `04-Footprints-on-Disk/` — filesystem artefacts, exec traces, timestomping notes
 - `05-Logs/` — Linux logging quickref + parsers
-- `06-Lab-Notes/` — your answers, screenshots, IOCs (placeholders)
-- `tools-scripts/` — **one‑command** triage helpers (bash)
 - `cheatsheets/` — quick commands and references
-- `reports/` — investigation templates (IR log + final report)
-- `.gitignore`, `LICENSE` (MIT), `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`
 
 ---
 
