@@ -1,7 +1,5 @@
 # Linux Process Analysis – TryHackMe
 
-![Room Banner](https://tryhackme-images.s3.amazonaws.com/room-banners/advanced-endpoint-investigations.png)
-
 ## Overview
 This repository contains my notes, commands, and findings from the TryHackMe room **Linux Process Analysis**, part of the *Advanced Endpoint Investigations* pathway.  
 The room focuses on forensic investigation of **processes, cronjobs, services, autostart scripts, and application artefacts** in Linux systems.
@@ -30,6 +28,18 @@ The room focuses on forensic investigation of **processes, cronjobs, services, a
 - `Task6_AutostartScripts/` → Autostart persistence checks.  
 - `Task7_ApplicationArtefacts/` → Logs & artefact analysis.  
 - `Task8_Conclusion.md` → Summary of findings.  
+
+---
+
+## Screenshot
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-completion.png)
+![Room practice 1](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice1.png)
+![Room practice 2](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice2.png)
+![Room practice 3](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice3.png)
+![Room practice 4](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice4.png)
+![Room practice 5](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice5.png)
+![Room practice 6](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice6.png)
+![Room practice 7](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice7.png)
 
 ---
 
