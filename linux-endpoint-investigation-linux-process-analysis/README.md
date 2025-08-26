@@ -38,8 +38,6 @@ The room focuses on forensic investigation of **processes, cronjobs, services, a
 ![Room practice 3](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice3.png)
 ![Room practice 4](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice4.png)
 ![Room practice 5](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice5.png)
-![Room practice 6](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice6.png)
-![Room practice 7](https://github.com/MayankQuery/tryhackme-writeups/blob/main/linux-endpoint-investigation-linux-process-analysis/images/linux-endpoint-investigation-linux-process-analysis-practice7.png)
 
 ---
 
