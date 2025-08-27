@@ -25,7 +25,7 @@ This room focuses on learning and applying **DFIR (Digital Forensics & Incident 
 - `Tasks/` -> Write-ups for each task in the room  
 - `Notes/` -> General notes on Windows incident artefacts and investigation methodology  
 - `Findings/` -> Summaries of discovered artefacts and attack correlations  
-- `images/` -> Screenshots of the try hack me room
+
 ---
 
 ## Key Takeaways
