@@ -1,7 +1,5 @@
-## Summary.md
-
-```markdown
 # Findings — Summary
+```markdown
 
 ## Executive Summary
 The attacker established persistence by creating a Scheduled Task named **Updater** that invoked **ssh.exe** to connect to a malicious server at **192.168.1.4** at one‑minute intervals. Prior to persistence, the attacker created and accessed a suspicious archive **secrets.rar**, indicating possible data staging/exfiltration preparation.
