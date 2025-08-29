@@ -81,8 +81,6 @@ Move `Parsed-LNK.csv` to `/Evidence/`.
 * **Target Created (file creation):** `2022-09-30 10:27:20`
 * **Source Created (lnk creation):** `≈ 10:27:30`
 
-````
-````
 ---
 
 # Task 6 — Investigating File Execution
@@ -131,9 +129,8 @@ wevtutil epl Microsoft-Windows-TaskScheduler/Operational Evidence\TaskScheduler.
 * XML `EventData` → TaskName, Author, Command, Arguments
 * Correlate timestamps with LNK & task creation
 
-````
+---
 
-````
 # Task 9 — Chronological Order of Attack
 
 ```markdown
