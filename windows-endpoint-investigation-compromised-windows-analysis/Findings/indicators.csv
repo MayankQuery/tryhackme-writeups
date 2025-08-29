@@ -1,5 +1,4 @@
 ## Findings/Indicators
-
 ```csv
 Type,Value,Context,Source
 IP,192.168.1.4,SSH C2 target,Scheduled Task Action/XML
