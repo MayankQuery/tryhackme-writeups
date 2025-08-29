@@ -14,7 +14,6 @@ Compromised-Windows-Analysis/
 ├─ README.md
 ├─ Findings/
 │  ├─ Summary.md
-│  └─ Indicators.csv
 ├─ Tasks/
 │  ├─ Task01-Introduction.md
 │  ├─ Task03-Timeline-Explorer.md
