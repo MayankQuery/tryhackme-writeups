@@ -82,18 +82,6 @@ Compromised-Windows-Analysis/
 
 ---
 
-## Findings/Indicators.csv
-
-```csv
-Type,Value,Context,Source
-IP,192.168.1.4,SSH C2 target,Scheduled Task Action/XML
-File,secrets.rar,Potential data staging,LNK parse (LECmd)
-Task,Updater,Persistence mechanism,Task Scheduler & C:\\Windows\\System32\\Tasks
-Path,C:\\Windows\\System32\\OpenSSH\\ssh.exe,Exec path,Task Action
-```
-
----
-
 ## Tasks/Task01-Introduction.md
 
 ```markdown
