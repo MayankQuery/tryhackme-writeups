@@ -76,8 +76,8 @@ Compromised-Windows-Analysis/
 ---
 
 ## Completion Bagde
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-endpoint-investigation-compromised-windows-analysis/images/windows-endpoint-investigation-compromised-windows-analysis-completion.png)
 
-all the Screenshots of this room is in ![Images]()
+all the Screenshots of this room is in ![Images](https://github.com/MayankQuery/tryhackme-writeups/blob/main/windows-endpoint-investigation-compromised-windows-analysis/images/windows-endpoint-investigation-compromised-windows-analysis-completion.png)
 
 ---
