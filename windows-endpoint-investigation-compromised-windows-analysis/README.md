@@ -74,3 +74,10 @@ Compromised-Windows-Analysis/
 4. **Open the task write‑ups** in `/Tasks/` while you investigate.
 
 ---
+
+## Completion Bagde
+![Room Completion]()
+
+all the Screenshots of this room is in ![Images]()
+
+---
