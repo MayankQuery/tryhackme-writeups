@@ -14,7 +14,7 @@ Compromised-Windows-Analysis/
 ├─ README.md
 ├─ Findings/
 │  ├─ Summary.md
-├─ Tasks/
+├─ Tasks.md:
 │  ├─ Task01-Introduction.md
 │  ├─ Task03-Timeline-Explorer.md
 │  ├─ Task04-Scheduled-Tasks.md
@@ -23,21 +23,15 @@ Compromised-Windows-Analysis/
 │  ├─ Task07-The-Dig-of-Executable.md
 │  ├─ Task08-Windows-Event-Logs.md
 │  └─ Task09-Chronological-Order.md
-├─ Notes/
+├─ Notes.md
 │  ├─ Investigation-Checklist.md
 │  ├─ Artifact-Paths.md
 │  └─ Commands-Cheatsheet.md
-├─ Evidence/
-│  ├─ Parsed-LNK.csv        (placeholder)
-│  ├─ Timeline-View.csv     (placeholder)
-│  ├─ Updater-Task.xml      (placeholder)
-│  └─ .gitkeep
-├─ Scripts/
+├─ Scripts.md
 │  ├─ export_scheduled_task.ps1
 │  ├─ parse_recent_lnk_with_lecmd.cmd
 │  └─ export_eventlogs_wevtutil.cmd
-├─ .gitignore
-└─ LICENSE
+├─ images/
 ```
 
 ---
