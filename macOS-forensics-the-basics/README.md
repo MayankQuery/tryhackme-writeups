@@ -16,13 +16,16 @@ This repository contains structured notes, task-wise write-ups, scripts, and inv
 - Mounting and examining APFS disk images
 
 ## Repo Structure
-- `Tasks/` — Task-wise write-ups
-- `Notes/` — Concept notes & study guides
-- `Findings/` — Summaries, timelines, correlations
-- `Artifacts/` — Sample inputs/mount points (no real case data)
-- `Tools/` — Helper scripts & notebooks
-- `Checklists/` — Practical step-by-step guides
-- `References/` — Further reading
+- `Tasks` — Task-wise write-ups
+- `Notes` — Concept notes & study guides
+- `Findings` — Summaries, timelines, correlations
+- `Tools-script` — Helper scripts & notebooks
+- `Checklists` — Practical step-by-step guides
+- `Images` - Screenshots of the room
+
+## Screenshot
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/macOS-forensics-the-basics/images/macOS-forensics-the-basics-completion.png)
+![Room Practice]()
 
 ## How to Use
 1. Read `Notes/` to get context.
