@@ -25,7 +25,7 @@ This repository contains structured notes, task-wise write-ups, scripts, and inv
 
 ## Screenshot
 ![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/macOS-forensics-the-basics/images/macOS-forensics-the-basics-completion.png)
-![Room Practice]()
+![Room Practice](https://github.com/MayankQuery/tryhackme-writeups/blob/main/macOS-forensics-the-basics/images/macOS-forensics-the-basics-practice.png)
 
 ## How to Use
 1. Read `Notes/` to get context.
