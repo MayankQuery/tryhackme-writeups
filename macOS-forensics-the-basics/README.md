@@ -5,7 +5,7 @@ This repository contains structured notes, task-wise write-ups, scripts, and inv
 ## Room Snapshot
 - Difficulty: Easy  
 - Est. Time: ~90 min  
-- Status: ✅ Completed (100%)
+- Status: Completed (100%)
 
 ## Learning Objectives
 - Brief history of macOS and evolution of security
