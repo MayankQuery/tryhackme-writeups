@@ -6,9 +6,6 @@
 - Case reference: Apple–FBI dispute highlighted device access constraints.
 - Focus of room: macOS tooling & workflow essentials.
 
-**Answers/Flags**
-- No answer needed.
-
 ---
 
   # Task 2 — A Brief History of macOS
@@ -84,9 +81,7 @@ hdiutil attach image.dmg -readonly
 # If encrypted, you'll be prompted for passphrase or key
 ```
 
----
-
-# On Linux (read-only)
+On Linux (read-only)
 
 Install libfsapfs / apfs-fuse if available.
 
@@ -95,11 +90,13 @@ apfs-fuse image.dd Artifacts/mounts/apfs_ro
 
 Always mount read-only. Work on verified copies.
 
-```markdown
+---
+
 # Task 9 — Conclusion
 
 **What I learned**
 - Mapping macOS security features to forensic workflow.
 - Handling APFS containers, snapshots, and common artifacts.
 - Practical constraints with encrypted/modern hardware.
-```
+
+---
