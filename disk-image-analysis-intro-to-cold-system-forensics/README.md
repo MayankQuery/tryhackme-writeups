@@ -32,7 +32,3 @@ This repo captures my learnings and personal write‑ups for **TryHackMe – Int
 
 
 > **Ethics & Legal**: Always maintain chain of custody, write‑block source media, and document every action.
-
-
-## License
-MIT — see [LICENSE](LICENSE).
