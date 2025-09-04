@@ -34,8 +34,9 @@ Checklist before acquisition:
 
 
 ## Set read-only (software hint)
-- `sudo blockdev --setro /dev/sdX`
-
+```bash
+sudo blockdev --setro /dev/sdX
+```
 
 ## Raw acquisition (dd)
 ```bash
