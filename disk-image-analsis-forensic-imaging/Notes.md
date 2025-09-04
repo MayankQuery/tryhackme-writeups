@@ -62,3 +62,17 @@ ewfacquire -u -t /evidence/case001.E01 /dev/sdX
 sudo losetup --find --show -P /evidence/case001.img
 sudo mount -o ro,loop /evidence/case001.img /mnt/img
 ```
+
+---
+
+# Integrity Checking
+
+
+- Use at least **SHA-256**; keep MD5 for legacy parity if needed.
+- Compute hashes at these points:
+1. (If possible) at source prior to imaging
+2. During acquisition (hash-on-the-fly)
+3. After image creation
+4. After any copy/move of the image
+- Tools: `sha256sum`, `md5sum`, `hashdeep`, `ewfverify`
+---
