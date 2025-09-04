@@ -9,10 +9,7 @@ This repository documents a safe, reproducible workflow for forensic disk imagin
 
 ## Quick structure
 - `notes/` — Concepts and references
-- `tasks/` — Per-task runbooks (no answers/flags)
 - `cheatsheet.md` — Quick commands & checks
-- `scripts/` — Acquisition & verification helpers
-- `templates/` — Report & logging templates
 
 
 ## Quick start
