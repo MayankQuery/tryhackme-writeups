@@ -38,4 +38,8 @@ cd tryhackme-defender-xdr
 * `labs/lab-navigate-defender-xdr.md` — guided lab steps to navigate the portal, take screenshots and validate results.
 * `cheatsheet/cheatsheet.md` — one-page quick reference of Defender XDR components, RBAC tips, and Sentinel integration points.
 
+## Screenshot
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/microsoft-defender-XDR-introduction/microsoft-defender-XDR-introduction-completion.png)
+
 ---
+
