@@ -25,10 +25,8 @@ It’s intended as a study reference for anyone exploring security engineering r
 
 ## Contents
 - `TASKS.md` → all room tasks with key notes
-- `WALKTHROUGH.md` → structured walkthrough and sample answers
 - `NOTES.md` → condensed study notes
 - `CHEATSHEET.md` → quick reference guide
-- `assets/` → screenshots, diagrams, or the room banner
 
 ---
 
