@@ -30,6 +30,11 @@ It’s intended as a study reference for anyone exploring security engineering r
 
 ---
 
+## Completion Badge
+![Room Completed](https://github.com/MayankQuery/tryhackme-writeups/blob/main/introduction-to-security-engineering-security-engineer-intro/introduction-to-security-engineering-security-engineer-intro-completion.png)
+
+---
+
 ## How to use
 Clone the repo and explore files while reviewing the TryHackMe room:
 
