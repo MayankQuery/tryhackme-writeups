@@ -13,7 +13,7 @@ This repo contains notes, task answers, configuration snippets and a cheatsheet 
 - Identify threats and mitigation approaches
 
 ## Completion Badge
-![Room Completion]()
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/network-and-system-security-secure-network-architecture/network-and-system-security-secure-network-architecture-completion.png)
 
 
 ## How to use
