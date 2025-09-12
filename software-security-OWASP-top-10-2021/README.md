@@ -7,4 +7,7 @@
 **Duration (as shown):** 120 min  
 **Room difficulty:** Beginner — Intermediate
 
+## Completion Badge
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/software-security-OWASP-top-10-2021/software-security-OWASP-top-10-2021-completion.png)
+
 ---
