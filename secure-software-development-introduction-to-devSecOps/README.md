@@ -44,6 +44,9 @@ The repository accompanies the TryHackMe room and contains:
 3. Keep `CHEATSHEET.md` open while completing hands-on exercises.
 
 
+## Completion Badge
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/secure-software-development-introduction-to-devSecOps/secure-software-development-introduction-to-devsecops-completion.png)
+
 ## Contributing
 
 
