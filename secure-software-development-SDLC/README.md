@@ -11,6 +11,8 @@
 - **Estimated time:** 120 minutes
 - **Difficulty:** Beginner / Intermediate
 
+## Completion Badge
+![Room Completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/secure-software-development-SDLC/secure-software-development-SDLC-completion.png)
 
 ## Learning objectives
 - Understand the Software Development Lifecycle (SDLC) framework and its phases.
