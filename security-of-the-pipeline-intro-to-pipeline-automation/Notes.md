@@ -1,60 +1,60 @@
 # Notes — Intro to Pipeline Automation
 ## 1. What is a DevOps pipeline?
 
-A DevOps pipeline is an automated sequence of steps that take source code changes and produce a deployable artifact. Typical stages include: source control -> build -> test -> package -> deploy -> monitor.
+- A DevOps pipeline is an automated sequence of steps that take source code changes and produce a deployable artifact. Typical stages include: source control -> build -> test -> package -> deploy -> monitor.
 
 ## 2. Why automate pipelines?
 
-Speed: faster feedback loops and deployments
+- Speed: faster feedback loops and deployments
 
-Consistency: repeatable processes reduce human error
+- Consistency: repeatable processes reduce human error
 
-Scalability: repeatable across multiple projects/environments
+- Scalability: repeatable across multiple projects/environments
 
 ## 3. Common pipeline tools
 
-Source control: Git, GitHub, GitLab
+- Source control: Git, GitHub, GitLab
 
-CI/CD: Jenkins, GitHub Actions, GitLab CI, CircleCI
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, CircleCI
 
-Build tools: Maven, Gradle, npm
+- Build tools: Maven, Gradle, npm
 
-Containerization/orchestration: Docker, Kubernetes
+- Containerization/orchestration: Docker, Kubernetes
 
-Package & dependency managers: npm, pip, Maven Central
+- Package & dependency managers: npm, pip, Maven Central
 
-Secret management: HashiCorp Vault, AWS Secrets Manager
+- Secret management: HashiCorp Vault, AWS Secrets Manager
 
 ## 4. Pipeline security concerns (high level)
 
-Credential leakage: storing secrets in plaintext (repos, YAML, history)
+- Credential leakage: storing secrets in plaintext (repos, YAML, history)
 
-Compromised runners/agents: shared runners with attacker access
+- Compromised runners/agents: shared runners with attacker access
 
-Insecure dependencies: supply-chain attacks via malicious packages
+- Insecure dependencies: supply-chain attacks via malicious packages
 
-Misconfigured IAM/permissions: overly broad roles for automation users
+- Misconfigured IAM/permissions: overly broad roles for automation users
 
-Artifact tampering: unsigned artifacts or unaudited registries
+- Artifact tampering: unsigned artifacts or unaudited registries
 
 ## 5. Secure pipeline design principles
 
-Least privilege: grant minimal permissions to pipeline principals
+- Least privilege: grant minimal permissions to pipeline principals
 
-Secrets handling: use secret stores and avoid committing secrets
+- Secrets handling: use secret stores and avoid committing secrets
 
-Immutable artifacts: build once, promote across environments
+- Immutable artifacts: build once, promote across environments
 
-Strong audit & logging: enable pipeline logs + monitoring
+- Strong audit & logging: enable pipeline logs + monitoring
 
-Dependency provenance: pin versions and verify checksums/signatures
+- Dependency provenance: pin versions and verify checksums/signatures
 
-Environment segmentation: separate build, staging, and prod environments
+- Environment segmentation: separate build, staging, and prod environments
 
 ## 6. Quick example: GitHub Actions security notes
 
-Do not store secrets as plain files; use GitHub Secrets
+- Do not store secrets as plain files; use GitHub Secrets
 
-Carefully vet third-party actions (prefer official or pinned versions)
+- Carefully vet third-party actions (prefer official or pinned versions)
 
-Avoid workflow_dispatch that exposes tokens incorrectly
+- Avoid workflow_dispatch that exposes tokens incorrectly
