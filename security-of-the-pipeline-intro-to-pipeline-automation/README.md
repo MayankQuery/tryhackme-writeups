@@ -26,7 +26,7 @@ Intro-to-Pipeline-Automation/
 └── CHEATSHEET.md    # Short commands, checks and best-practices
 
 ## Completion Badge
-![Room completion]()
+![Room completion](https://github.com/MayankQuery/tryhackme-writeups/blob/main/security-of-the-pipeline-intro-to-pipeline-automation/security-of-the-pipeline-intro-to-pipeline-automation-completion.png)
 
 ## How to use this repo
 
