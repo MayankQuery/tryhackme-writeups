@@ -65,24 +65,24 @@ MYSQL_ROOT_PASSWORD: example
 
 ## Task 6 — Intro to the Docker Socket
 
-The Docker daemon listens on a socket (usually /var/run/docker.sock).
+- The Docker daemon listens on a socket (usually /var/run/docker.sock).
 
-If a container can access the socket (mounted as a volume), it can control Docker (create containers, mount host files, escalate to RCE).
+- If a container can access the socket (mounted as a volume), it can control Docker (create containers, mount host files, escalate to RCE).
 
-Security note: Avoid mounting the Docker socket into containers unless absolutely necessary.
+- Security note: Avoid mounting the Docker socket into containers unless absolutely necessary.
 
-Exploit concept (do not misuse): mounting the socket allows docker commands in the container which effectively gives root on the host if the daemon runs as root.
+- Exploit concept (do not misuse): mounting the socket allows docker commands in the container which effectively gives root on the host if the daemon runs as root.
 
 ## Task 7 — Practical
 
-Build and run an image from a provided Dockerfile.
+- Build and run an image from a provided Dockerfile.
 
-Use docker inspect, docker logs, and docker exec to explore containers.
+- Use docker inspect, docker logs, and docker exec to explore containers.
 
-Identify misconfigurations such as exposed sockets, weak credentials, or sensitive files mounted into containers.
+- Identify misconfigurations such as exposed sockets, weak credentials, or sensitive files mounted into containers.
 
 ### Tips while practicing:
 
-Use --read-only and user options to harden containers when testing.
+- Use --read-only and user options to harden containers when testing.
 
-Look for docker run -v /:/host or similar – high-risk.
+- Look for docker run -v /:/host or similar – high-risk.
