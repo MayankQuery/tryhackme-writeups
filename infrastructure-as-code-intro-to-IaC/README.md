@@ -28,13 +28,11 @@ This room provides a **beginner-friendly introduction to Infrastructure as Code 
 ├── Tasks.md # Task-by-task answers & explanations
 └── Cheatsheet.md # Quick reference guide
 
-yaml
-Copy code
 
 ---
 
 ## 🏆 Badge
 Room completed **100%** ✅  
-![Badge]()
+![Badge](https://github.com/MayankQuery/tryhackme-writeups/blob/main/infrastructure-as-code-intro-to-IaC/infrastructure-as-code-intro-to-IaC-completion.png)
 
 ---
