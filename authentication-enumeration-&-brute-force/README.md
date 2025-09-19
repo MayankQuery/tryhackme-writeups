@@ -10,7 +10,7 @@ Overview This repository contains copy-paste-ready files for documenting your wa
 
 ## Files in this repo
 
--README.md (this file)
+- README.md (this file)
 
 - NOTES.md — Detailed walkthrough and observations
 
