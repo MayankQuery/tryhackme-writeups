@@ -1,9 +1,9 @@
 # L2 MAC Flooding & ARP Spoofing — TryHackMe
 
 
-**Room:** L2 MAC Flooding & ARP Spoofing
-**Duration:** 120 minutes
-**Skill level:** Intermediate (network fundamentals + basic Wireshark)
+- **Room:** L2 MAC Flooding & ARP Spoofing
+- **Duration:** 120 minutes
+- **Skill level:** Intermediate (network fundamentals + basic Wireshark)
 
 
 ## What you'll learn
