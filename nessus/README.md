@@ -2,9 +2,9 @@
 # Nessus - TryHackMe
 
 
-**Room:** Nessus (Learn)
-**Difficulty:** Beginner
-**Estimated time:** 45 min
+- **Room:** Nessus (Learn)
+- **Difficulty:** Beginner
+- **Estimated time:** 45 min
 
 
 ## Room Summary
