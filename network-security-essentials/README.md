@@ -3,7 +3,7 @@
 
 **Duration:** ~60 min
 
-**Room progress:** 11% (example)
+**Room progress:** 100%
 
 ## Overview
 In this room you learn core concepts of an enterprise network, the network perimeter, visibility (how we monitor), and how SOC analysts investigate suspicious activity using perimeter logs and network monitoring.
