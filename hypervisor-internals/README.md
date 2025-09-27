@@ -1,5 +1,3 @@
-# README.md
-
 # Hypervisor-Internals (TryHackMe)
 **Room:** Hypervisor Internals — TryHackMe  
 **Duration:** ~35 minutes  
