@@ -1,5 +1,3 @@
-# NOTES.md
-
 # Hypervisor Internals — Notes
 
 ## 1. Introduction to Virtualization
