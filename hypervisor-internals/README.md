@@ -2,7 +2,7 @@
 **Room:** Hypervisor Internals — TryHackMe  
 **Duration:** ~35 minutes  
 **Difficulty:** Beginner / Intermediate  
-**TryHackMe Room URL:** *(paste link here if you want)*
+
 
 ## Overview
 This repo contains my notes, tasks, and a concise cheatsheet for the TryHackMe room **Hypervisor Internals**. The room introduces virtualization, hypervisor types, hypervisor ecosystem (landscape), hypervisor internals, guest additions, and a short practical exercise.
