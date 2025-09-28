@@ -1,6 +1,6 @@
 # TASKS.md
 
-# Active Recon — Task Answers (copy-ready)
+# Active Recon — Task Answers 
 
 **Target IP:** `10.201.30.77`
 
