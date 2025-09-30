@@ -69,3 +69,6 @@
   ```python
   plt.plot(df['x'], df['y'])
   plt.show()
+  df['col'].hist() # Histogram
+  df['col'].value_counts().plot(kind='bar') # Bar Chart
+  ```
