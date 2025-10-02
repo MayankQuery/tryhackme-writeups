@@ -49,6 +49,5 @@ with open("file.txt", "r") as f:
 import math
 print(math.sqrt(25))
 shell
-Copy code
 
 ---
