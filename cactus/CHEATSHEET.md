@@ -1,4 +1,4 @@
-# Cactus — Task Answers (paste-ready)
+# Cactus — Task Answers 
 
 ## Task 1 — Introduction
 **Q:** What is CVE-2022-46169 and why is it critical?  
