@@ -1,4 +1,4 @@
-# Career in Cybersecurity Room
+# Careers in Cyber Room
 
 This write-up documents my learning from the [https://tryhackme.com/room/careerincyber](https://tryhackme.com/room/careersincyber) room on TryHackMe.
 
